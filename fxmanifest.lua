@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'github.com/tekkenkkk'
-description 'FiveM Scoreboard made for RichRP (Private Rework)'
+author 'https://tekken.dev/'
+description 'FiveM Scoreboard'
 
 shared_script '@es_extended/imports.lua'
 

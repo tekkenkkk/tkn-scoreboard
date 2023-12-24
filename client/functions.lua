@@ -129,7 +129,7 @@ lib.func.drawText3D = function(text, coords, talking, add)
         SetTextDropshadow(0, 0, 5, 0, 255)
         SetTextDropShadow()
         SetTextOutline()
-		SetTextCentre(1)
+		SetTextCentre(true)
 
         BeginTextCommandDisplayText('STRING')
         AddTextComponentSubstringPlayerName(text)

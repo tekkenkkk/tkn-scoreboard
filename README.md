@@ -31,5 +31,5 @@ Add following command to server config file:<br>
 ```ensure tkn-scoreboard```
 
 <h1>Preview</h1>
-<img src="https://i.imgur.com/rg4Vazz.png">
-<img src="https://i.imgur.com/ud3fO8W.png">
+<img src="https://i.imgur.com/6DPW0GZ.png">
+<img src="https://i.imgur.com/hyxWb9P.png">
